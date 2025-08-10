@@ -1,9 +1,9 @@
 {
-    "iterations": 812,
-    "depth": 4,
-    "learning_rate": 0.036108116289748804,
-    "l2_leaf_reg": 1.4053928765696646,
+    "iterations": 539,
+    "depth": 5,
+    "learning_rate": 0.0472243073128008,
+    "l2_leaf_reg": 0.24341328374260535,
     "bootstrap_type": "Bernoulli",
-    "random_strength": 0.04210060503334374,
-    "subsample": 0.5165352311330962
+    "random_strength": 0.03776414319785232,
+    "subsample": 0.5181188440599487
 }
