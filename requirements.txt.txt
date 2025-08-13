@@ -5,3 +5,6 @@ scipy==1.16.1
 matplotlib==3.10.5
 seaborn==0.13.2
 catboost==1.2.8
+missingno==0.5.2
+phik==0.12.5
+optuna==4.4.0
